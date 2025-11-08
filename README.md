@@ -1,2 +1,2 @@
-# meu_primeiro_repositorio
+# repositorio_de_Lucc4
 Projeto desenvolvido em aula pela Kodland.
